@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BakhytzhanAmanzholov
+- 👀 I’m interested in Java Backend Developing
+- 🌱 I’m currently learning studying at AITU University
+- 📫 How to reach me amanzholovbakhytzhan@gmail.com
