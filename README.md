@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BakhytzhanAmanzholov
+- 👋 Hi, I’m Amanzholov Bakhytzhan
 - 👀 I’m interested in Java Backend Developing
-- 🌱 I’m currently studying at AITU University
+- 🌱 I’m currently studying at Astana IT University
 - 📫 How to reach me amanzholovbakhytzhan@gmail.com
